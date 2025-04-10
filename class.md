@@ -1,6 +1,6 @@
 ## Class Information
-- Name: [Your Name Here]  
-- Certification: [Your Certification Name Here]  
+- Name: Santosh
+- Certification: Meta Database Engineer Professional
 
 ## Instructions
 Please replace the placeholders with your details:
